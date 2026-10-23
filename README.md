@@ -14,7 +14,7 @@ I build database-driven Java applications using **Core Java, JDBC, Hibernate ORM
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,hibernate,html,css,js,react,git,github,idea,eclipse,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,hibernate,html,css,js,react,git,github,idea,eclipse,vscode" alt="Tech stack icons" />
 </p>
 
 - **Languages:** Java, SQL, Python
