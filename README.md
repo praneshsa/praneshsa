@@ -70,15 +70,6 @@ Built and styled web pages using HTML5, CSS3 and JavaScript.
 
 ---
 
-## 📊 GitHub & LeetCode Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=praneshsa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://leetcard.jacoblin.cool/praneshsa?theme=dark&font=Segoe%20UI&ext=heatmap" alt="LeetCode stats" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 📧 Email: [praneshappu76@gmail.com](mailto:praneshappu76@gmail.com)
