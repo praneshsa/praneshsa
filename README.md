@@ -17,8 +17,8 @@ I build database-driven Java applications using **Core Java, JDBC, Hibernate ORM
   <img src="https://skillicons.dev/icons?i=java,mysql,hibernate,html,css,js,react,git,github,idea,eclipse,vscode" alt="Tech stack icons" />
 </p>
 
-- **Languages:** Java, SQL
-- **Java:** Core Java, OOP, Collections Framework, JDBC, Hibernate ORM
+- **Languages:** Java, SQL, Python
+- **Java:** Core Java, Java8, OOP, Collections Framework, JDBC, Hibernate ORM
 - **Database:** MySQL, SQL Joins, CRUD Operations
 - **Web:** HTML5, CSS3, JavaScript, ReactJS
 - **Tools:** Git, GitHub, IntelliJ IDEA, Eclipse, VS Code
