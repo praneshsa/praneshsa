@@ -46,7 +46,7 @@ Student record management application using Hibernate entity mapping and the Ses
 
 Responsive expense tracker with add, edit and delete transactions, income and expense tracking, category and type filters, a spending-by-category chart, and `localStorage` persistence.
 
-[📂 Source code](https://github.com/praneshsa/REPO-NAME) · [🌐 Live demo](https://praneshsa.github.io/REPO-NAME/)
+[📂 Source code](https://github.com/praneshsa/REPO-NAME) · [🌐 Live demo]([https://praneshsa.github.io/REPO-NAME/](https://praneshsa.github.io/Expense-Tracker/))
 
 ### 🏦 Bank Management System
 `Core Java` `OOP`
